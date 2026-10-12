@@ -17,10 +17,31 @@ The notebook covers data creation, handling missing values, transforming columns
 
 ## Tools and Technologies
 
-- Python
-- Pandas
-- NumPy
-- Jupyter Notebook
+## Environment and Dependencies
+
+The notebook was tested in the following environment:
+
+- **Python:** 3.13.16
+- **Pandas:** 2.2.3
+- **NumPy:** 2.1.3
+- **Environment:** Google Colab
+- **Notebook:** Jupyter Notebook (`.ipynb`)
+
+### Install Dependencies
+
+Install the required packages using:
+
+```bash
+pip install pandas==2.2.3 numpy==2.1.3
+```
+
+### Running the Notebook
+
+1. Open the notebook in Google Colab or Jupyter Notebook.
+2. Ensure the required dependencies are installed.
+3. Restart the kernel or runtime.
+4. Run all cells from beginning to end.
+5. Confirm that `Employee.csv`, `Seniority.csv`, and `Project.csv` are generated and the outputs appear correctly.
 
 ## Dataset Structure
 
